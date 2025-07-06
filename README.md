@@ -1,6 +1,6 @@
 # 🎨 ComfyUI Colormaster Nodes
 
-This project offers a collection of **custom nodes for ComfyUI**, dedicated to creating/manipulating hexadecimal color palettes, the tools can be diverted for other functionalities.
+This project offers a collection of custom nodes for ComfyUI, dedicated to creating/manipulating hexadecimal color palettes, the tools can be diverted for other functionalities.
 ---
 
 ## 📦 Included Nodes
