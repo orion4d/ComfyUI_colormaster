@@ -8,6 +8,8 @@ This project provides a collection of **custom nodes for ComfyUI**, focused on c
 
 ### 1. `Image Collage`
 
+![image](https://github.com/user-attachments/assets/4420a4a1-ab7a-4f48-a47a-2013f1597509)
+
 Combines up to **8 images** into a single canvas either horizontally or vertically with adjustable spacing.
 
 - **Inputs:**  
@@ -22,6 +24,8 @@ Combines up to **8 images** into a single canvas either horizontally or vertical
 
 ### 2. `Annotate Hex Lines`
 
+![image](https://github.com/user-attachments/assets/42a2e187-7f55-4243-a25e-92ca08b2c326)
+
 Adds text annotations (typically hexadecimal color codes) directly onto an image.
 
 - **Inputs:** image, text lines
@@ -30,6 +34,8 @@ Adds text annotations (typically hexadecimal color codes) directly onto an image
 ---
 
 ### 3. `Select Hex Line`
+
+![image](https://github.com/user-attachments/assets/f9346541-33ac-49c9-9f31-fa9cd59ce82b)
 
 Dropdown node to **select a line** from a `.txt` or `.csv` list of hex color codes.
 
@@ -44,6 +50,8 @@ Dropdown node to **select a line** from a `.txt` or `.csv` list of hex color cod
 
 ### 4. `Hex Color to Image`
 
+![image](https://github.com/user-attachments/assets/f4b556c8-9a27-4442-89f9-72405f8e1e8d)
+
 Generates a **solid color image** from a hexadecimal color string.
 
 - **Inputs:**  
@@ -55,7 +63,9 @@ Generates a **solid color image** from a hexadecimal color string.
 
 ---
 
-### 5. `Color Palette Node`
+### 5. `Color Palette Extractor`
+
+![image](https://github.com/user-attachments/assets/2eb3351d-76d7-4114-af1a-fe912f4b338f)
 
 Extracts a **dominant color palette** from a given image using clustering.
 
