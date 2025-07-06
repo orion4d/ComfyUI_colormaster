@@ -1,7 +1,6 @@
 # 🎨 ComfyUI Colormaster Nodes
 
-This project provides a collection of **custom nodes for ComfyUI**, focused on color processing, palette manipulation, image annotation, and collage generation. Designed for artists and developers looking to extend ComfyUI with creative utilities.
-
+This project offers a collection of **custom nodes for ComfyUI**, dedicated to creating/manipulating hexadecimal color palettes, the tools can be diverted for other functionalities.
 ---
 
 ## 📦 Included Nodes
