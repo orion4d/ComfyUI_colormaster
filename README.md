@@ -73,7 +73,7 @@ Extracts a **dominant color palette** from a given image using clustering.
 
 ```bash
 pip install -r requirements.txt
-
+```
 
 <div align="center">
 
