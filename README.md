@@ -67,9 +67,10 @@ Extracts a **dominant color palette** from a given image using clustering.
 ## 🛠️ Installation
 
 1. Clone or download the folder
-2.```bash
-3. git clone https://github.com/orion4d/ComfyUI_colormaster.git
-```
+:
+    ```bash
+    git clone https://github.com/orion4d/ComfyUI_colormaster.git
+    ```
 
 4. Install dependencies:
 
